@@ -1,2 +1,2 @@
 # SP-codes
-Assignment that i completed for my structured prograaming course
+Assignment that i completed for my structured programing course
